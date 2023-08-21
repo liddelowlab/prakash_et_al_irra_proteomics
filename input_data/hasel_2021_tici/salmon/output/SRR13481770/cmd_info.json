@@ -1,0 +1,13 @@
+{
+    "salmon_version": "1.9.0",
+    "index": "../../rnaseq_pipeline_salmon_indices/mRatBN7_2_k21",
+    "libType": "A",
+    "mates1": "/dev/fd/63",
+    "mates2": "/dev/fd/62",
+    "validateMappings": [],
+    "seqBias": [],
+    "gcBias": [],
+    "threads": "4",
+    "output": "../salmon/output/SRR13481770",
+    "auxDir": "aux_info"
+}
